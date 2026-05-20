@@ -112,5 +112,3 @@ The methodological workflow included literature-guided feature selection, prepro
 
 **Tesneem Fnais** — MSc Health Data Science  
 University of Birmingham, 2025
-
-Feel free to connect or reach out if you'd like to discuss the project!
